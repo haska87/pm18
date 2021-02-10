@@ -1,0 +1,35 @@
+  495  mkdir pm18
+  496  ls
+  497  cd pm18
+  498  ls
+  499  git init
+  500  ls -a
+  501  cd .git
+  502  ls
+  503  ls -a
+  504  ll
+  505  cat config 
+  506  cd ../
+  507  ls -a
+  508  git config --list --global
+  509  git ll
+  510  git config --global user.name haska
+  511  git config --list --global
+  512  git status
+  513  nano .gitignore
+  514  cat .gitignore 
+  515  git status
+  516  ls
+  517  ls -a
+  518  nano hello.py
+  519  ls
+  520  git status
+  521  git add .
+  522  git add .
+  523  git status
+  524  git commit -m "my first commit. add hello."
+  525  git status
+  526  git log
+  527  git ll
+  528  history
+  529  history > history.txt
