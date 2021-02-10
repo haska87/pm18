@@ -1,0 +1,62 @@
+  498  git add .
+  499  git add .
+  500  ls
+  501  git status
+  502  git add history.txt 
+  503  git add history.txt 
+  504  git status
+  505  git commit -m "добавили историю команд"
+  506  git status
+  507  git log
+  508  git ll
+  509  git remote add origin https://github.com/haska87/pm18.git
+  510  git pull
+  511  git branch -M main
+  512  git push -u origin main
+  513  git pull
+  514  ls
+  515  git pull
+  516  ls
+  517  git ll
+  518  git status
+  519  git add .
+  520  git add .
+  521  git status
+  522  git restore --staged hello.py
+  523  git status
+  524  git restore hello.py
+  525  git status
+  526  git ll
+  527  git status
+  528  git mv "\320\237\320\234\320\230-18.ods" pm18.ods
+  529  git mv "\320\237\320\234\320\230-18.ods" pm18.ods
+  530  git mv '\320\237\320\234\320\230-18.ods' pm18.ods
+  531  ls
+  532  git mv ПМИ-18.ods pm18.ods
+  533  git mv ПМИ-18.ods pm18.ods
+  534  git status
+  535  git rm pm18.ods
+  536  git add .
+  537  git status
+  538  git commit -m "add pm18.ods"
+  539  git status
+  540  git ll
+  541  git rm pm18.ods 
+  542  ls
+  543  git ll
+  544  git status
+  545  git add .
+  546  git commit -m "update"
+  547  git ll
+  548  git reset --soft head^1
+  549  git status
+  550  git ll
+  551  cat hello.py 
+  552  git commit -m "update2"
+  553  git ll
+  554  git reset --hard head^1
+  555  git ll
+  556  git status
+  557  cat hello.py 
+  558  git status
+  559  history > history.10.02.txt
